@@ -1,1 +1,1 @@
-# Administraci-n-Sistemas
+# Administracion-Sistemas
